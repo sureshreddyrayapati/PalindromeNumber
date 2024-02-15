@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\obj\Debug\net6.0\PolindromNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\obj\Debug\net6.0\PolindromNumber.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\obj\Debug\net6.0\PolindromNumber.AssemblyInfo.cs
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\obj\Debug\net6.0\PolindromNumber.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\bin\Debug\net6.0\PolindromNumber.exe
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\bin\Debug\net6.0\PolindromNumber.deps.json
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\bin\Debug\net6.0\PolindromNumber.runtimeconfig.json
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\bin\Debug\net6.0\PolindromNumber.dll
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\bin\Debug\net6.0\PolindromNumber.pdb
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\obj\Debug\net6.0\PolindromNumber.dll
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\obj\Debug\net6.0\refint\PolindromNumber.dll
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\obj\Debug\net6.0\PolindromNumber.pdb
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\obj\Debug\net6.0\PolindromNumber.genruntimeconfig.cache
+C:\Users\dell\source\repos\PolindromNumber\PolindromNumber\obj\Debug\net6.0\ref\PolindromNumber.dll
